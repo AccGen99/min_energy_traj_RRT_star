@@ -3,6 +3,9 @@ Minimum Energy Trajectory Planning with RRT star algorithm
 
 Implements the paper titled - Online minimum-energy trajectory planning and control on a straight-line path for three-wheeled omnidirectional mobile robots for planning velocity. Wayoints required for implementation are generated via RRT* algorithm in known environment in MATLAB
 
+## GIF of one test case
+![RRT star with minimum energy trajectory planning](https://github.com/AccGen99/min_energy_traj_RRT_star/blob/main/rrtPath.gif)
+
 ## File Description
 derLamda.m - Derivative of lagragian multiplier constant for cost function calculation \
 FindLambda.m - Calculate value of lagragian multipliers \
